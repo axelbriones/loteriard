@@ -18,7 +18,7 @@ const nextConfig: NextConfig = {
     NEXT_PUBLIC_SCRAPING_DATA_URL: process.env.NEXT_PUBLIC_SCRAPING_DATA_URL,
   },
   experimental: {
-    turbo: false, // Desactiva Turbopack
+    // turbo: false, // Desactiva Turbopack
   },
 };
 
