@@ -1,6 +1,6 @@
 // src/pages/posts/index.tsx
 import { useEffect, useState } from 'react';
-import { fetchAllWordpressPosts } from '@/services/wordpressApi'; // Asegúrate de usar la función correcta para obtener los posts
+import { fetchAllWordpressPosts } from '@/services/wordpressApi';
 import MainLayout from '@/layouts/MainLayout';
 import PostGrid from '@/components/PostGrid';
 
