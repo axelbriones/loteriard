@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'GeistVF';
+  src: url(./GeistVF.eot);
+  src: url(./GeistVF.eot?#iefix) format('embedded-opentype'),
+       url(./GeistVF.otf) format('otf'),
+       url(./GeistVF.svg#GeistVF) format('svg'),
+       url(./GeistVF.ttf) format('truetype'),
+       url(./GeistVF.woff2) format('woff2');
+}

@@ -1,0 +1,104 @@
+[
+    {
+      "id": 1,
+      "title": "Euromillones",
+      "slug": "euromillones",
+      "imagen_destacada": "/path/to/euromillones_logo.svg",
+      "mainNumbers": ["01", "08", "19", "37", "50"],
+      "specialNumbers": ["06", "09"],
+      "additionalText": "EL MILLÓN HVJ70340",
+      "color": "#324A89"
+    },
+    {
+      "id": 2,
+      "title": "La Primitiva",
+      "slug": "la-primitiva",
+      "imagen_destacada": "/path/to/primitiva_logo.svg",
+      "mainNumbers": ["18", "32", "40", "45", "46", "49"],
+      "specialNumbers": ["28", "09"],
+      "additionalText": "EL JOKER 665347",
+      "color": "#3B7D5F"
+    },
+    {
+      "id": 3,
+      "title": "Bonoloto",
+      "slug": "bonoloto",
+      "imagen_destacada": "/path/to/bonoloto_logo.svg",
+      "mainNumbers": ["09", "16", "19", "20", "35", "39"],
+      "specialNumbers": ["32", "07"],
+      "additionalText": "RESULTADOS PENDIENTES",
+      "color": "#8B9C52"
+    },
+    {
+      "id": 4,
+      "title": "El Gordo",
+      "slug": "el-gordo",
+      "imagen_destacada": "/path/to/el_gordo_logo.svg",
+      "mainNumbers": ["07", "24", "29", "35", "52"],
+      "specialNumbers": ["03"],
+      "additionalText": "Nº CLAVE",
+      "color": "#C1272D"
+    },
+    {
+      "id": 5,
+      "title": "EuroDreams",
+      "slug": "eurodreams",
+      "imagen_destacada": "/path/to/eurodreams_logo.svg",
+      "mainNumbers": ["04", "15", "17", "21", "25", "34"],
+      "specialNumbers": ["01"],
+      "additionalText": "SUEÑO",
+      "color": "#4A148C"
+    },
+    {
+      "id": 6,
+      "title": "Lotería Nacional",
+      "slug": "loteria-nacional",
+      "imagen_destacada": "/path/to/loteria_nacional_logo.svg",
+      "mainNumbers": ["00961", "97364"],
+      "specialNumbers": ["0", "1", "7"],
+      "additionalText": "PRIMER Y SEGUNDO PREMIO",
+      "color": "#1C4E80"
+    },
+    {
+      "id": 7,
+      "title": "La Quiniela",
+      "slug": "la-quiniela",
+      "imagen_destacada": "/path/to/la_quiniela_logo.svg",
+      "mainNumbers": ["1", "2", "1", "1", "X", "1", "1", "2", "1", "2", "1", "1", "2", "1", "1-2"],
+      "color": "#D32F2F"
+    },
+    {
+      "id": 8,
+      "title": "Quinigol",
+      "slug": "quinigol",
+      "imagen_destacada": "/path/to/quinigol_logo.svg",
+      "matchResults": [
+        { "team1": "Psv", "score1": "4", "score2": "0" },
+        { "team1": "Real Madrid", "score1": "1", "score2": "3" },
+        { "team1": "Estrella Roja", "score1": "2", "score2": "5" },
+        { "team1": "Psg", "score1": "1", "score2": "2" },
+        { "team1": "Ludogorets", "score1": "1", "score2": "2" },
+        { "team1": "Viktoria Plzen", "score1": "2", "score2": "1" }
+      ],
+      "color": "#0288D1"
+    },
+    {
+      "id": 9,
+      "title": "Lototurf",
+      "slug": "lototurf",
+      "imagen_destacada": "/path/to/lototurf_logo.svg",
+      "mainNumbers": ["01", "02", "04", "25", "27", "28"],
+      "specialNumbers": ["0", "01"],
+      "additionalText": "CABALLO",
+      "color": "#FF7043"
+    },
+    {
+      "id": 10,
+      "title": "Quíntuple Plus",
+      "slug": "quintuple-plus",
+      "imagen_destacada": "/path/to/quintuple_plus_logo.svg",
+      "raceNumbers": ["07", "10", "09", "01", "07", "10"],
+      "color": "#FFD600"
+    }
+  ]
+  
